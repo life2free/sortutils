@@ -1,3 +1,3 @@
-*.c linguist-language=C
+*.c,*.java,*,py linguist-language=C,Java,Python
 *.java linguist-language=Java
 *.py linguist-language=Python
