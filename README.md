@@ -7,14 +7,14 @@ Eight sorting methods: Selection sort, Insertion sort, Bubble sort, Merge sort, 
 There are two test files in `test` folder. Navigate to folder `c/test`, Run below commands to check:
 
 ```
-gcc testsort.c ../src/utils/sort.c ../src/utils/utils.c -o testsort.out
+gcc testsort.c ../src/utils/*.c -o testsort.out
 ./testsort.out
 ```
 
 or
 
 ```
-gcc testsort1.c ../src/utils/sort.c ../src/utils/utils.c -o testsort1.out
+gcc testsort1.c ../src/utils/*.c -o testsort1.out
 ./testsort1.out
 ```
 
