@@ -1,10 +1,10 @@
 # Sorting Methods
 
-Eight sorting methods: Selection sort, Insertion sort, Bubble sort, Merge sort, Heap sort, Quick sort, Shell sort, Counting sort. Utilized Java, Python, C to implment.
+Eight sorting methods: Selection sort, Insertion sort, Bubble sort, Merge sort, Heap sort, Quick sort, Shell sort, Counting sort. Utilized Java, Python and C to implment.
 
 ## C
 
-There are two test files in `test` folder. Navigate to folder `c/test`, Run below commands to check:
+There are two test files in `test` folder. Navigate to folder `c/test`, run below commands to check:
 
 ```
 gcc testsort.c ../src/utils/*.c -o testsort.out
@@ -22,8 +22,8 @@ In file `testsort.c`, can test different sorting method by passing different thi
 
 ## Java
 
-Use java 1.8. There are two test classes in `test` folder. `SortJunit.java` is used for Junit Test. 
-Navigate to folder `java`, Run below commands to check:
+Use java 1.8. There are two test classes in `test` folder. `SortJunit.java` is used for Junit Test.
+Navigate to folder `java`, run below commands to check:
 
 ```
 javac test/TestSort.java
@@ -33,7 +33,7 @@ java test.TestSort
 
 ## Python
 
-Use Python3. There are two test files. `sort_unittest.py` is used for Unit Test. Navigate to folder `python`, Run below commands to check:
+Use Python3. There are two test files. `sort_unittest.py` is used for Unit Test. Navigate to folder `python`, run below commands to check:
 
 ```
 python3 sort_unittest.py
