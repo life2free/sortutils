@@ -22,7 +22,8 @@ In file `testsort.c`, can test different sorting method by passing different thi
 
 ## Java
 
-Use java 1.8. There are two test classes in `test` folder. `SortJunit.java` is used for Junit Test. Navigate to folder `java`, Run below commands to check:
+Use java 1.8. There are two test classes in `test` folder. `SortJunit.java` is used for Junit Test. 
+Navigate to folder `java`, Run below commands to check:
 
 ```
 javac test/TestSort.java
